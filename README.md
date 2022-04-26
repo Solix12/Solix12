@@ -2,7 +2,7 @@
 - 👀 I’m interested It Android development
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me instagram : salikh_444 telegram : @salikh444
+- 📫 How to reach me instagram : salikh_444 telegram : @Muhammadsolih_Abdugafforov
 
 <!---
 Solix12/Solix12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
