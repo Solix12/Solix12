@@ -4,7 +4,7 @@
 </div>  
   
 
-# <div align="center">Frontend Developer</div>
+# <div align="center">Android Developer</div>
 
 # <div align="center">Hi 👋! I'm Abdug'afforov Muhammadsolih. I'm Android developer from Uzbekistan with love</div>
 
