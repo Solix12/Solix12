@@ -17,16 +17,10 @@
 
 <table>
 <tr>
-<td valign="top" width="33%">
-
-
-
-</td>
-<td valign="top" width="33%">
 
 ### DevOps
 
-<div align="center">  
+<div align="center">    
 <img style="margin: 10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>
 
 <img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="gitlab" width="50" height="50"/>
