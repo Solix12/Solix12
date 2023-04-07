@@ -10,7 +10,6 @@
 
 <br />
 
-- 🌱 I’m currently learning Testings, e2e, Integration tests, Functional tests, etc.
 - ✉️ How to reach me [solix200@gmail.com](solix200@gmail.com)
 
 <br/>
